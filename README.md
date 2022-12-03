@@ -20,7 +20,7 @@ Recently completed projects I worked on:
 - 📫 How to reach me: ahmadhussnain787@gmail.com
 
 
-## What I Discovrd about history:
+## What I Discovered about history:
 > The universe is created with a moral order. The moral order binds and
 > insists humans find truth, help, and raise voices for those
 > communities and people who are oppressed and never get a chance to
