@@ -1,16 +1,20 @@
-### Hi there 👋
+# Ahmad Hussnain
+Hi, there 👋 I am Ahmad, An adaptive full-stack web developer, and have working experience in the corporate, startup, freelance & remote world. I enjoy working with mid-sized startup companies to create valuable digital products and happy consumers.
 
-<!--
-**ahmadhuss/ahmadhuss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I believe that honesty is the best policy and my equation for business is:
+Honesty + Good Relations + Business = Profit
 
-Here are some ideas to get you started:
+Recently completed projects I worked on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Chérie](https://apps.apple.com/app/1589584842)
+
+[Consumerchoice.com](https://consumerchoice.com/)
+
+[Internationaldriversassociation.com](https://internationaldriversassociation.com/)
+
+[Lote Design System](https://github.com/lotesystem/lote-design-system#lote-design-system)
+
+## About Me
+- 🔭 I’m currently working on: Python ERP System named LeeKim Alliance.
+- 🌱 I’m currently learning about Kubernetes, Human History, International Politics, and the emergence of Modern Western civilization.
+- 📫 How to reach me: ahmadhussnain787@gmail.com
