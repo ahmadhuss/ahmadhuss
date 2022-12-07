@@ -16,7 +16,7 @@ Recently completed projects I worked on:
 
 ## About Me
 - 🔭 I’m currently working on: Python ERP System named LeeKim Alliance.
-- 🌱 I’m currently learning about Kubernetes and Human History.
+- 🌱 I’m currently learning about Kubernetes, Human History and Philosophy
 - 📫 How to reach me: ahmadhussnain787@gmail.com
 
 
@@ -26,6 +26,11 @@ Recently completed projects I worked on:
 > communities and people who are oppressed and never get a chance to
 > explore the creativity of this universe.
 
-> Truth has come to many people before it came to us, and it is that
-> truth the universal truth, that eternal truth that is coming to
-> mankind for so long before it came to us. In the end that will triumph.
+> Governance should be based on truth. Truth has been coming throughout
+> history. Truth has come to many people before it came to us. **Be
+> careful!** Truth even came to Brazilian Indians and the Indigenous
+> Australians, who had a great respect for a river.
+> 
+> Truth is absolute and it is that truth the universal truth, that
+> eternal truth that is coming to mankind for so long before it came to
+> us. In the end that will triumph.
