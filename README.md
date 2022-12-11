@@ -16,7 +16,7 @@ Recently completed projects I worked on:
 
 ## About Me
 - 🔭 I’m currently working on: Python ERP System named LeeKim Alliance.
-- 🌱 I’m currently learning about Kubernetes, Human History and Philosophy
+- 🌱 I’m currently learning about Kubernetes, Human History and Philosophy.
 - 📫 How to reach me: ahmadhussnain787@gmail.com
 
 
