@@ -15,8 +15,7 @@ Recently completed projects I worked on:
 [Lote Design System](https://github.com/lotesystem/lote-design-system#lote-design-system)
 
 ## About Me
-- 🔭 I’m currently working on: Python ERP System named LeeKim Alliance.
-- 🌱 I’m currently learning about Kubernetes, Human History and Philosophy.
+- 🌱 I’m currently learning about new things, Human History and Philosophy.
 - 📫 How to reach me: ahmadhussnain787@gmail.com
 
 
