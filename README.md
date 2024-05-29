@@ -16,7 +16,7 @@ Recently completed projects I worked on:
 
 ## About Me
 - 🌱 I’m currently learning about new things, Human History and Philosophy.
-- 📫 How to reach me: ahmad@aizvi.com
+- 📫 How to reach me: ahmadhussnain787@gmail.com
 
 
 ## What I Discovered about history:
