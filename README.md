@@ -8,8 +8,6 @@ Recently completed projects I worked on:
 
 [Chérie](https://apps.apple.com/app/1589584842)
 
-[Treasureverse](https://play.google.com/store/apps/details?id=com.treasureverse&hl=en)
-
 [Lee Kim](https://my.leekim.com/en/)
 
 [Internationaldriversassociation.com](https://internationaldriversassociation.com/)
