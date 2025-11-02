@@ -15,5 +15,4 @@ Recently completed projects I worked on:
 [Lote Design System](https://github.com/lotesystem/lote-design-system#lote-design-system)
 
 ## About Me
-- 🌱 I’m currently learning about new Tech things, Human History and Philosophy.
 - 📫 How to reach me: ahmadhussnain787@gmail.com
