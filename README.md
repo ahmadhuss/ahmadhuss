@@ -4,15 +4,5 @@ Hi, there 👋 I am Ahmad, An adaptive Software Engineer and full-stack web deve
 I believe that honesty is the best policy and my equation for business is:
 Honesty + Good Relations + Business = Profit
 
-Recently completed projects I worked on:
-
-[Chérie](https://apps.apple.com/app/1589584842)
-
-[Lee Kim](https://my.leekim.com/en/)
-
-[Internationaldriversassociation.com](https://internationaldriversassociation.com/)
-
-[Lote Design System](https://github.com/lotesystem/lote-design-system#lote-design-system)
-
 ## About Me
 - 📫 How to reach me: ahmadhussnain787@gmail.com
